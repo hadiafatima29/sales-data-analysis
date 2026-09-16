@@ -1,0 +1,16 @@
+Date,Product,Category,Quantity,Price,City,Region,Customer
+2026-01-01,Laptop,Electronics,2,80000,Lahore,Punjab,Hadia
+2026-01-02,Mouse,Accessories,5,1500,Faisalabad,Punjab,Ali
+2026-01-03,Keyboard,Accessories,3,3000,Lahore,Punjab,Sara
+2026-01-04,Phone,Electronics,1,60000,Islamabad,North,Ahmed
+2026-01-05,Laptop,Electronics,1,80000,Lahore,Punjab,Hadia
+2026-01-06,Headphones,Accessories,4,5000,Karachi,Sindh,Ayesha
+2026-01-07,Phone,Electronics,2,60000,Islamabad,North,Usman
+2026-01-08,Mouse,Accessories,6,1500,Faisalabad,Punjab,Ali
+2026-01-09,Keyboard,Accessories,2,3000,Lahore,Punjab,Sara
+2026-01-10,Laptop,Electronics,1,80000,Lahore,Punjab,Hadia
+2026-02-01,Phone,Electronics,2,60000,Islamabad,North,Ahmed
+2026-02-03,Mouse,Accessories,4,1500,Faisalabad,Punjab,Ali
+2026-02-05,Laptop,Electronics,1,80000,Lahore,Punjab,Sara
+2026-02-07,Headphones,Accessories,3,5000,Karachi,Sindh,Ayesha
+2026-02-10,Keyboard,Accessories,5,3000,Lahore,Punjab,Hadia
